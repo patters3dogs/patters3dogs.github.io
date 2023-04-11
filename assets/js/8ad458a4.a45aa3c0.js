@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpatters_3_dogs_ghpages=self.webpackChunkpatters_3_dogs_ghpages||[]).push([[2386],{4469:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
