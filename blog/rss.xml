@@ -4,10 +4,20 @@
         <title>patters3dogs Blog</title>
         <link>https://patters3dogs.github.io/blog</link>
         <description>patters3dogs Blog</description>
-        <lastBuildDate>Thu, 11 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[What I have learned on MLOps]]></title>
+            <link>https://patters3dogs.github.io/blog/What-I-have-learned-on-MLOps</link>
+            <guid>https://patters3dogs.github.io/blog/What-I-have-learned-on-MLOps</guid>
+            <pubDate>Tue, 01 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi. For a while, I have learned about MLOPs in Coursera. It is very Interesting area of work, because it containing very thing that I need to known for increasing realiability for my own automate trading system.]]></description>
+            <content:encoded><![CDATA[<p>Hi. For a while, I have learned about MLOPs in Coursera. It is very Interesting area of work, because it containing very thing that I need to known for increasing realiability for my own automate trading system. </p><p>MLOps is a set of Ideas for create Machine learning for production, which also contain DataOps, DevOps. In the past, for me, I created a Machine Learning model, and then move to my personal trading system without any mandatory approch, sometime it causes my app broken down. For now I can design more robustness application that can apply Machine Learning mode with a systemtic workflow.</p><p>In the course that I have been taken are mainly focused on cloud computing platform. Personally, I have lots of experience in AWS, however I still lag of ideas for creating a robust system for my retail trading system. </p><p>Here, These next blogs, I will shared my ideas and implementations of MLOps concept on my own retail automate trading system on AWS.</p><p>To be continue...</p>]]></content:encoded>
+            <category>MLOps</category>
+            <category>AWS</category>
+        </item>
         <item>
             <title><![CDATA[Greetings!]]></title>
             <link>https://patters3dogs.github.io/blog/greetings</link>

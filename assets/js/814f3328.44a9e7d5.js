@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"What I have learned on MLOps","permalink":"/blog/What-I-have-learned-on-MLOps"},{"title":"Greetings!","permalink":"/blog/greetings"}]}')}}]);

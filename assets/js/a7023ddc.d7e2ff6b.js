@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[713],{3457:e=>{e.exports=JSON.parse('[{"label":"MLOps","permalink":"/blog/tags/ml-ops","count":1},{"label":"AWS","permalink":"/blog/tags/aws","count":1},{"label":"greetings","permalink":"/blog/tags/greetings","count":1}]')}}]);
